@@ -1,0 +1,3 @@
+[submodule "hardware/OpenSlider"]
+	path = hardware/OpenSlider
+	url = https://github.com/solv-stoy-teknikk/OpenSlider
